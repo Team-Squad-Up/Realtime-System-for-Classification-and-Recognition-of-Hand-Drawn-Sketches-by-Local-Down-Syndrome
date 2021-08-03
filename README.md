@@ -19,4 +19,4 @@ Install the following libraries.
 <li> prettytable </li>
 </ul>
 
-after installing all the libraries run your code
+After installing all the libraries you can run the code.
